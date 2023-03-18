@@ -1,0 +1,20 @@
+@media screen and (max-width: 760px){
+  header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .mulher{
+    display: none;
+    
+  }
+
+  .advinhar-numero{
+    display: flex;
+    flex-direction: column;
+    left: 70px;
+    padding: 6px 15px;
+}
+
+}
